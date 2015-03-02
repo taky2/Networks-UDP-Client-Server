@@ -1,4 +1,3 @@
-
 /**
  * This program is ran on the server side to communicate with a client via UDP.
  * 
