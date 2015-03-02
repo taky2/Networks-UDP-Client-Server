@@ -1,4 +1,3 @@
-
 /**
  * This program runs on the client side to communicate with a server via UDP.
  * @author Dustin Fay
